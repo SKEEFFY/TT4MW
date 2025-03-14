@@ -1,9 +1,9 @@
 using UnityEditor;
 using UnityEngine;
 
-public class EditorSelectDependenciesHotkey
+public class EditorFindDependenciesHotkey
 {
-    [MenuItem("Tools/Select Dependencies %g")]
+    [MenuItem("MyTools/Select Dependencies %g")]
     private static void SelectDependencies()
     {
         Object[] selectedObjects = Selection.objects;
