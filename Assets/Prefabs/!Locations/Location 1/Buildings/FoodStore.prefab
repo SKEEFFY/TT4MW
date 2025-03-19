@@ -45,6 +45,7 @@ GameObject:
   - component: {fileID: 6113085557629764492}
   - component: {fileID: 8228630213584250379}
   - component: {fileID: 5653671660312741678}
+  - component: {fileID: 9056850086058531763}
   m_Layer: 0
   m_Name: FoodStore
   m_TagString: Untagged
@@ -154,9 +155,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f16a7e1b013a314a8cbc9689e83bccd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _maximumCustomersOnShop: 0
   spawnPoint: {fileID: 9104497814368477120}
   _spawnInterval: 5
+  _stayTime: 2
   _wayPoints: []
+--- !u!114 &9056850086058531763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 747176954614151057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b9d0d225611db4ea752a47ee0f0aba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _shopCardPrefab: {fileID: 6491918675094185642, guid: 270600a946cda6a49b8c03ad97b60e75, type: 3}
+  _contentPanel: {fileID: 0}
+  _moneyIcon: {fileID: 0}
+  _defaultBackground: {fileID: 0}
 --- !u!1 &865427265301236521
 GameObject:
   m_ObjectHideFlags: 0

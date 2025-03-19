@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class CustomerSpawner : MonoBehaviour
+public class StoreSpawnCustomers : MonoBehaviour
 {
     [SerializeField] private int _maximumCustomersOnShop;
     [SerializeField] private Transform spawnPoint;

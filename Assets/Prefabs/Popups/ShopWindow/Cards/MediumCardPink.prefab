@@ -368,6 +368,7 @@ GameObject:
   - component: {fileID: 6547537493361983689}
   - component: {fileID: 8237229825245868593}
   - component: {fileID: 3461586974085900517}
+  - component: {fileID: 1777259460825874773}
   m_Layer: 5
   m_Name: MediumCardPink
   m_TagString: Untagged
@@ -447,6 +448,22 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1777259460825874773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6491918675094185642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c41edbfaf563d4645a86f090aab88fb1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _background: {fileID: 6627750270500382141}
+  _icon: {fileID: 5846683294943102248}
+  _countUpgrades: {fileID: 1062661027908780438}
+  _cost: {fileID: 4816087853272243667}
 --- !u!1 &8033804840101733572
 GameObject:
   m_ObjectHideFlags: 0

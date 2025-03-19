@@ -8,6 +8,10 @@ public class GameData
     private int _foodStoreLevel;
     private int _hardwareStoreLevel;
     private int _travelStoreLevel;
+    
+    [SerializeField] private int _foodStoreCost = 500;
+    [SerializeField] private int _hardwareStoreCost = 500;
+    [SerializeField] private int _travelStoreCost = 500;
 
     public int Money
     {
@@ -33,6 +37,24 @@ public class GameData
         set => _travelStoreLevel = value;
     }
 
+    public int FoodStoreCost
+    {
+        get => _foodStoreCost;
+        set => _foodStoreCost = value;
+    }
+
+    public int HardwareStoreCost
+    {
+        get => _hardwareStoreCost;
+        set => _hardwareStoreCost = value;
+    }
+
+    public int TravelStoreCost
+    {
+        get => _travelStoreCost;
+        set => _travelStoreCost = value;
+    }
+
     private GameData()
     {
         _money = 500;
@@ -56,6 +78,12 @@ public class GameData
     public static void SetInstance(GameData loadedData)
     {
         _instance = loadedData;
-        Debug.Log($"{loadedData.Money} {loadedData.FoodStoreLevel} {loadedData.HardwareStoreLevel} {loadedData.TravelStoreLevel}");
+        Debug.Log($"{loadedData.Money}" +
+                  $"{loadedData.FoodStoreLevel} " +
+                  $"{loadedData.HardwareStoreLevel} " +
+                  $"{loadedData.TravelStoreLevel} " +
+                  $"{loadedData.FoodStoreCost} " +
+                  $"{loadedData.HardwareStoreCost} " +
+                  $"{loadedData.TravelStoreCost}");
     }
 }

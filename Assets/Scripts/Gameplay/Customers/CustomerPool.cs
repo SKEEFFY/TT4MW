@@ -8,16 +8,16 @@ public class CustomerPool : MonoBehaviour
     [SerializeField] private Customer _customerPrefab;
     
     private Queue<Customer> _customerPool = new Queue<Customer>();
-    private CustomerSpawner _customerSpawner; 
+    private StoreSpawnCustomers _storeSpawnCustomers; 
 
     private void Awake()
     {
         Instance = this;
     }
 
-    public void Initialize(CustomerSpawner spawner, int maxCustomers)
+    public void Initialize(StoreSpawnCustomers spawner, int maxCustomers)
     {
-        _customerSpawner = spawner;
+        _storeSpawnCustomers = spawner;
         FillPool(maxCustomers);
     }
 
@@ -52,7 +52,7 @@ public class CustomerPool : MonoBehaviour
             customer.gameObject.SetActive(false);
             _customerPool.Enqueue(customer);
 
-            _customerSpawner.DecreaseCustomerCount(); 
+            _storeSpawnCustomers.DecreaseCustomerCount(); 
         }
     }
 }
