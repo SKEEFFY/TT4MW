@@ -15,7 +15,10 @@ public class CustomerSpawner : MonoBehaviour
     [SerializeField] private Transform[] _wayPoints;
 
     private int _currentCustomers = 0;
-    
+
+    private void Awake()
+    {
+    }
 
     private void Start()
     {
@@ -32,7 +35,7 @@ public class CustomerSpawner : MonoBehaviour
             if (_currentCustomers < _maximumCustomersOnShop)
             {
                 Customer customer = CustomerPool.Instance.GetCustomer();
-                if (!ReferenceEquals(customer, null))
+                if (ReferenceEquals(customer, null))
                 {
                     customer.transform.position = spawnPoint.position;
                     customer.ResetCustomer(spawnPoint.position);
