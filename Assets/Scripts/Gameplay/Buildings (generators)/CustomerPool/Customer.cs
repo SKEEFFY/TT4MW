@@ -51,9 +51,6 @@ public class Customer : MonoBehaviour
             }
         }
     }
-
-
-
     
     public void SetWaypoints(Transform[] waypoints, float stayTime)
     {
@@ -71,7 +68,6 @@ public class Customer : MonoBehaviour
         _currentWaypointIndex = -1; 
         _isMoving = false; 
     }
-
     
     private IEnumerator StayAtWaypoint()
     {

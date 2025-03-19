@@ -44,7 +44,7 @@ public class CustomerPool : MonoBehaviour
 
     public void ReturnCustomer(Customer customer)
     {
-        if (ReferenceEquals(customer, null))
+        if (!ReferenceEquals(customer, null))
         {
             customer.Agent.ResetPath();
             customer.IsMoving = false;
