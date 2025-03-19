@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 6167831936095620475}
   - component: {fileID: 4891505939772317469}
   - component: {fileID: 8434515060820119757}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: sand-bucket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -212,7 +212,7 @@ GameObject:
   - component: {fileID: 5117833652248955960}
   - component: {fileID: 1386799466443307206}
   m_Layer: 0
-  m_Name: man-jamaica_Rig
+  m_Name: man target
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -408,7 +408,7 @@ GameObject:
   - component: {fileID: 8427565473957569179}
   - component: {fileID: 2897641383092043057}
   - component: {fileID: 2078555483422439561}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lifebuoy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -578,7 +578,7 @@ GameObject:
   - component: {fileID: 1549320473586611996}
   - component: {fileID: 5360691185655441989}
   - component: {fileID: 4093467656995884407}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: beach-bag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -746,7 +746,7 @@ GameObject:
   - component: {fileID: 3857399713719545268}
   - component: {fileID: 725523855737333806}
   - component: {fileID: 2725560068668089522}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: barrel-empty
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1176,7 +1176,7 @@ GameObject:
   - component: {fileID: 8426769770990621122}
   - component: {fileID: 8750305857378041402}
   - component: {fileID: 770164052554029045}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ball-beach
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1312,7 +1312,7 @@ GameObject:
   - component: {fileID: 535615689710505769}
   - component: {fileID: 9094879106367763945}
   - component: {fileID: 4228779886696587229}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1419,7 +1419,7 @@ GameObject:
   - component: {fileID: 2947580940222811225}
   - component: {fileID: 5884903582060523920}
   - component: {fileID: 5556762417558244228}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: quern
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1524,7 +1524,7 @@ GameObject:
   - component: {fileID: 3682231768887147279}
   - component: {fileID: 988494309012694334}
   - component: {fileID: 5441898912376696070}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: bag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1727,7 +1727,7 @@ GameObject:
   - component: {fileID: 7728575138011615148}
   - component: {fileID: 4317221819000090049}
   - component: {fileID: 747758971655653469}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: lantern
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1864,7 +1864,7 @@ GameObject:
   - component: {fileID: 5080099814076950880}
   - component: {fileID: 7475697217143604178}
   - component: {fileID: 1396621948529392102}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: table-wood
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1971,7 +1971,7 @@ GameObject:
   - component: {fileID: 7301809675599204562}
   - component: {fileID: 5955445025072988996}
   - component: {fileID: 2497245056938652899}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: teapot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2108,7 +2108,7 @@ GameObject:
   - component: {fileID: 4065365574044426998}
   - component: {fileID: 8164865302801557962}
   - component: {fileID: 3228646324257612100}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: sleeping-bag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2353,7 +2353,7 @@ GameObject:
   - component: {fileID: 7748045509860668449}
   - component: {fileID: 740677810259524069}
   - component: {fileID: 1325019461134265212}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: shed-dog
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -175,7 +175,7 @@ GameObject:
   - component: {fileID: 702551573904002}
   - component: {fileID: 4560933879313677316}
   - component: {fileID: 6624537921543314545}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: battery-9v
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 1663646060056522290}
   - component: {fileID: 8164869183482061724}
   - component: {fileID: 8278619145241846800}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: cooker (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -481,7 +481,7 @@ GameObject:
   - component: {fileID: 400592516695489104}
   - component: {fileID: 8112254622279008272}
   - component: {fileID: 5477247699415951081}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tires
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -619,7 +619,7 @@ GameObject:
   - component: {fileID: 7925401352234391549}
   - component: {fileID: 1440790659386847396}
   - component: {fileID: 1221695811846902530}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: mail-box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -810,7 +810,7 @@ GameObject:
   - component: {fileID: 5654488884912407718}
   - component: {fileID: 4415599985215016372}
   - component: {fileID: 2646966714890598006}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: carnations
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -894,7 +894,7 @@ GameObject:
   - component: {fileID: 6983254035022946179}
   - component: {fileID: 1282386030672862967}
   - component: {fileID: 4858528858641981096}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1000,7 +1000,7 @@ GameObject:
   - component: {fileID: 945667942433064839}
   - component: {fileID: 1166746190709280305}
   - component: {fileID: 6977284964756158103}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: fire-extinguisher
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1169,7 +1169,7 @@ GameObject:
   - component: {fileID: 6819135602098021822}
   - component: {fileID: 3940521395993563238}
   - component: {fileID: 4258125832921603179}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: gas-bottle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1478,7 +1478,7 @@ GameObject:
   - component: {fileID: 4050671023682468066}
   - component: {fileID: 2956411529753096216}
   - component: {fileID: 7965675471840099896}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: fuel-canister (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1615,7 +1615,7 @@ GameObject:
   - component: {fileID: 270362030250400866}
   - component: {fileID: 119459216483559248}
   - component: {fileID: 4920153856909104699}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: table-dining
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1753,7 +1753,7 @@ GameObject:
   - component: {fileID: 3782010337631814510}
   - component: {fileID: 6436570626229883985}
   - component: {fileID: 269246234269892652}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dumpster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1888,7 +1888,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7381865482639440042}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: matches-box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1988,7 +1988,7 @@ GameObject:
   - component: {fileID: 2728159190372617728}
   - component: {fileID: 1829881370327834616}
   - component: {fileID: 330741059569781025}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: generator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2093,7 +2093,7 @@ GameObject:
   - component: {fileID: 826194849349407968}
   - component: {fileID: 4850327164672234264}
   - component: {fileID: 2030108117889187426}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: battery-9v (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2292,7 +2292,7 @@ GameObject:
   - component: {fileID: 6413476551729677553}
   - component: {fileID: 536352671550453383}
   - component: {fileID: 7980062994342965929}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: matches
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2398,7 +2398,7 @@ GameObject:
   - component: {fileID: 3225453950291430521}
   - component: {fileID: 3865666800792933347}
   - component: {fileID: 6148983216107093759}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: wrench
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2504,7 +2504,7 @@ GameObject:
   - component: {fileID: 1167994717044838783}
   - component: {fileID: 8334274110634993018}
   - component: {fileID: 3261714276894238052}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: matches-box-cover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2609,7 +2609,7 @@ GameObject:
   - component: {fileID: 6198078239584318580}
   - component: {fileID: 2844541796593189816}
   m_Layer: 0
-  m_Name: man-golf_Rig
+  m_Name: man target
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2665,7 +2665,7 @@ GameObject:
   - component: {fileID: 5905104588831123915}
   - component: {fileID: 2702979408374565088}
   - component: {fileID: 2832141603982339163}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: battery-9v (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2834,7 +2834,7 @@ GameObject:
   - component: {fileID: 3080701412103571229}
   - component: {fileID: 6863853929973243299}
   - component: {fileID: 6492333317602836528}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: palette
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3002,7 +3002,7 @@ GameObject:
   - component: {fileID: 5044019351900243240}
   - component: {fileID: 3089894650535934832}
   - component: {fileID: 8390310241913067925}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: atm-mechine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3142,7 +3142,7 @@ GameObject:
   - component: {fileID: 1971977126811477674}
   - component: {fileID: 8665979217167208901}
   - component: {fileID: 8320083210346514731}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: palette (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3278,7 +3278,7 @@ GameObject:
   - component: {fileID: 1541964806201231758}
   - component: {fileID: 2839887873344770700}
   - component: {fileID: 5810492832905149649}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: roses
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3362,7 +3362,7 @@ GameObject:
   - component: {fileID: 2583005966361321916}
   - component: {fileID: 7046902377396128378}
   - component: {fileID: 3297387476031085557}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: battery-9v (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3533,7 +3533,7 @@ GameObject:
   - component: {fileID: 4181140202017481045}
   - component: {fileID: 1510964011957517232}
   - component: {fileID: 8649675236984374865}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: battery-car
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3670,7 +3670,7 @@ GameObject:
   - component: {fileID: 857085850560711748}
   - component: {fileID: 5413160570462977250}
   - component: {fileID: 9117591393697501161}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: battery-9v (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3775,7 +3775,7 @@ GameObject:
   - component: {fileID: 4338166398186011861}
   - component: {fileID: 363078080552453874}
   - component: {fileID: 3404718134215140156}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: palette (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
